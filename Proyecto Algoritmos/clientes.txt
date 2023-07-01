@@ -1,0 +1,6 @@
+customer type:Natural/name:Andrea/last_name:Rojas/email:rojas.andrea@correo.unimet.edu.ve/shipping adress:Universidad Metropolitana/phone:0414-3464253/id:C30456073|
+customer type:Juridico/name:Fundacion Alegria/email:fundacion.alegria@gmail.com/shipping adress:La castellana/phone:0414-6645734/rif:J345654231|
+customer type:Natural/name:Marinette/last_name:Cheng/email:miraculous@hotmail.com/shipping adress:paris/phone:0414-3551574/id:C45008763|
+customer type:Natural/name:chuchu/last_name:fernandez/email:f.jesus@correo.unimet.edu.ve/shipping adress:calle venus/phone:0424-1522456/id:C29965948|
+customer type:Juridico/name:industrias manin/email:manuelzcruzx@gmail.com/shipping adress:2110/phone:0424-2977545/rif:J304590423|
+customer type:Natural/name:Juan/last_name:Mauro/email:j.ortiz@coreo.unimet.edu.ve/shipping adress:ibub/phone:0412-4853237/id:C31159015|
